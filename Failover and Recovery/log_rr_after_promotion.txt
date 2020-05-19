@@ -1,0 +1,15 @@
+/rdsdbbin/mysql/bin/mysqld, Version: 5.7.16-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+/rdsdbbin/mysql/bin/mysqld, Version: 5.7.16-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+/rdsdbbin/mysql/bin/mysqld, Version: 5.7.16-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+/rdsdbbin/mysql/bin/mysqld, Version: 5.7.16-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+/rdsdbbin/mysql/bin/mysqld, Version: 5.7.16-log (MySQL Community Server (GPL)). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
