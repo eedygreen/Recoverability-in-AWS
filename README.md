@@ -3,15 +3,15 @@
 
 ### Content
 
-## https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Data%20Durability%20and%20Recovery
+## [Data Durability and Recovery](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Data%20Durability%20and%20Recovery)
 
-## https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Failover%20and%20Recovery
+## [Failover and Recovery](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Failover%20and%20Recovery)
 
-## https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Web%20Resiliency
+## [Web Resiliency](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Web%20Resiliency)
 
 **Data Durability and Recovery**
 There are two zones used to achieve this project. The Database in the primary zone served as the master and the other in the secondary zone served as the slave.
-The Slave gets promoted to Master when there is an outage. click [here[(https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Data%20Durability%20and%20Recovery) to view full details
+The Slave gets promoted to Master when there is an outage. click [here](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Data%20Durability%20and%20Recovery) to view full details
 
 Availability Estimate
 The achievable Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for this Multi-AZ, multi-region database in terms of:
