@@ -11,7 +11,9 @@
 
 **Data Durability and Recovery**
 There are two zones used to achieve this project. The Database in the primary zone served as the master and the other in the secondary zone served as the slave.
-The Slave gets promoted to Master when there is an outage. click [here](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Data%20Durability%20and%20Recovery) to view full details
+The Slave gets promoted to Master when there is an outage.
+
+click [here](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Data%20Durability%20and%20Recovery) to view full details
 
 Availability Estimate
 The achievable Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for this Multi-AZ, multi-region database in terms of:
@@ -29,12 +31,14 @@ Multi-AZs has avaliability equivalent to 99.5%-99.9%
 
 
 **Failover and Recovery**
+
 Clik [here](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Failover%20and%20Recovery) to view the details.
 
 
 
 **Web Resilency**
 AWS S3 Versioning was used for reverting Web Application to point in time when deletion of the Web pages occured
+
 click [here](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Web%20Resiliency) for details.
 
 
