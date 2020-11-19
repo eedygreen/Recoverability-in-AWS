@@ -17,7 +17,7 @@ Recoverying from acidential deletion or change of item from database is the the 
 ![File Deleted at 12:25](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion.png)
 <br> <br/>
 
-## .5 Here is the Deleteion Makrfer from S3 
+## 5. Here is the Deleteion Makrfer from S3 
 ![Deletion Marker at 12:25](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion_marker.png)
 <br> <br/>
 
