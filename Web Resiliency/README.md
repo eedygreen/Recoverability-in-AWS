@@ -5,23 +5,23 @@ Recoverying from acidential deletion or change of item from database is the the 
 ![Original File upload at 11:43](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_original.png)
 <br> <br/>
 
-## 2. The background photo was changed to a new file at 11:50 
+## 2. The background photo was changed to a different background at 11:50 
 ![New File uploaded at 11:50](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_season.png)
 <br> <br/>
 
-## 3. The reverted file at 11:55 
+## 3. The Reverted File - The replaced file was reverted at 11:55 
 ![Reverted File at 11:55](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_season_revert.png)
 <br> <br/>
 
-## 4. The file was deleted at 12:25 
+## 4. The Deleted File - The file was deleted at 12:25 
 ![File Deleted at 12:25](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion.png)
 <br> <br/>
 
-## 5. Here is the Deleteion Makrfer from S3 
+## 5. Here is the Deleteion Marker from S3 
 ![Deletion Marker at 12:25](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion_marker.png)
 <br> <br/>
 
-## 6. The file was reverted at 12: 
+## 6. The Reverted Delete - the file was reverted at 12:33
 ![Reverted Delete File at 12:33](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion_revert.png)
 
 
