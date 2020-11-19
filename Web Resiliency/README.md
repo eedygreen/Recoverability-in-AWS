@@ -17,11 +17,11 @@ Recoverying from acidential deletion or change of item from database is the the 
 ![File Deleted at 12:25](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion.png)
 <br> <br/>
 
-## 5. Here is the Deleteion Marker from S3 
+## 5. The Deletetion Marker from S3 showing the file has been deleted
 ![Deletion Marker at 12:25](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion_marker.png)
 <br> <br/>
 
-## 6. The Reverted Delete - the file was reverted at 12:33
+## 6. The Reverted Delete File - the file was reverted at 12:33
 ![Reverted Delete File at 12:33](https://github.com/eedygreen/Recoverability-In-AWS/blob/master/Web%20Resiliency/s3_deletion_revert.png)
 
 
