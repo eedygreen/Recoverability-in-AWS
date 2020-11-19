@@ -26,4 +26,4 @@ Recoverying from acidential deletion or change of item from database is the the 
 
 
 ## Summary
-**The Web Resiliency on AWS on a static page website** https://github.com/eedygreen/Recoverability-In-AWS
+**The Web Resiliency on AWS with static page website hosted on S3. The background photo on the website was constantly changing and deleted, but it was recovered from these changes wihtout uploading the same file. The Resiliency shows how S3 handles fault tolerance to data stored as blob storage and how it can be relied upon.** https://github.com/eedygreen/Recoverability-In-AWS
