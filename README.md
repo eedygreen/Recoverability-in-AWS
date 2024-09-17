@@ -37,7 +37,7 @@ Clik [here](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Failo
 
 
 **Web Resilency**
-AWS S3 Versioning was used for reverting Web Application to point in time when deletion of the Web pages occured
+AWS S3 Versioning was used for reverting Web Application to any point in time when deletion of the Web pages occured
 
 click [here](https://github.com/eedygreen/Recoverability-In-AWS/tree/master/Web%20Resiliency) for details.
 
